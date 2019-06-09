@@ -5,4 +5,4 @@ This is a website
 ``` With Code Blocks```
 *and italics*
 
-and a [link](../p2.md) 
+and a [link](../p2) 
