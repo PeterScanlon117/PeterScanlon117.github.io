@@ -7,4 +7,4 @@ This is a website
 
 and a [link](../p2) 
 
-or this one [dinner](../_posts/2019-03-03-dinner.md)
+
