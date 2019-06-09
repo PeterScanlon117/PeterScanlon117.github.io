@@ -7,4 +7,4 @@ This is a website
 
 and a [link](../p2) 
 
-or this one [dinner]({{ site.baseurl }}{% post_url 2019-03-03-dinner.md %})
+or this one [dinner]({{ peterscanlon.co.uk }}{% post_url 2019-03-03-dinner.md %})
