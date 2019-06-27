@@ -1,10 +1,6 @@
-# What even is a website?
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-This is a website
-
-``` With Code Blocks```
-*and italics*
-
-and a [link](../p2) 
-
-
+layout: home
+---
