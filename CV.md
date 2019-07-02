@@ -27,12 +27,12 @@ I am a Development Engineer at [Seebyte](http://www.seebyte.com), working on sig
 - Designed and assembled ‘proof of concept’ circuit board for a novel method of electronically induced aqueous drop mixing for biomedical applications.
 
 **Interview Process Team Leader (2016) – Brasenose College, Oxford**
-- Led an 18-person team that organised and delivered the interview process at my college.
+- Led an 10-person team that organised and delivered the interview process at my college.
 - Ensured over 250 applicants were punctual to interviews, through structuring and managing the helper network. Adapted to the changing wants of the interviewing academics.
 
 **Captain (2016-2017) - Brasenose College Boat Club**
 - Organised an intensive training plan for the largest society within the college, increasing participation by 60% with novice crews reaching the semi-finals of the ‘Christchurch Regatta’.
-- Orchestrated a move in training grounds to improve training quality and flexibility in addition to attracting and hiring a high quality ex-GB squad coach.
+- Orchestrated a move in training grounds to improve training quality and flexibility.
 
 **Nuffield Research Placement (2014) - University of Nottingham**
 - Characterised Kevlar using yarn pull-out testing, as part of a research effort to improve Kevlar body armour with nano-material coatings.
