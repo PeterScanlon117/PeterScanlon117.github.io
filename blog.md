@@ -6,4 +6,4 @@ layout: blog
 title: Blog
 permalink: /blog/
 ---
-A brief introduction to the blog.
+A brief introduction to the blog. 

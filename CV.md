@@ -7,6 +7,7 @@ permalink: /CV/
 ### Introduction
 I am a Development Engineer at [Seebyte](http://www.seebyte.com), working on signal processing in C++. I am always on the lookout for possibilities to expand the efficacy of products and software that are used by people everyday. I aim to foster collaborative, productive environments and shape discussion towards better solutions; improving people’s lives via technology is what inspires and drives me. 
 
+
 ### Education
 **Brasenose College, University of Oxford**
 
