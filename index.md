@@ -5,6 +5,5 @@
 layout: home
 title: Welcome!
 subtitle: A blog about tech.
-permalink: /home/
 ---
 
