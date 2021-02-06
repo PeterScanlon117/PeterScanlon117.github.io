@@ -18,8 +18,9 @@ email: Peterscanlon117@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is where I will write my new blog. This is a test description which will hopefully 
   get better. 
+
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://peterscanlon.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  PeterScanlon117
 
 # Build settings
@@ -28,6 +29,8 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+theme: jekyll-theme-cayman
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
