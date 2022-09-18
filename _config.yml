@@ -17,15 +17,18 @@ title: Peter Scanlon
 email: Peterscanlon117@gmail.com
 
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm a software engineer with an interest in how data can affect the everyday lives of people like you and me.  
+  A software engineer with an interest in how data can affect the everyday lives of people like you and me.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://peterscanlon.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  PeterScanlon117
+github_username: PeterScanlon117
+
+masthead_title: "Peter Scanlon"
+
+minimal_mistakes_skin: "dirt"
 
 # Build settings
 markdown: kramdown
-
 
 plugins:
   - jekyll-paginate
@@ -35,6 +38,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
 # Themes
 defaults:
   - scope:
@@ -43,18 +47,36 @@ defaults:
     values:
       layout: single
       author_profile: true
+      related: true
 
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      related: true
+
+teaser: /assets/images/cogs-1.jpg
 
 author:
-  name     : "Peter Scanlon"
-  avatar   : "assets/images/bio-photo.jpg"
-  bio      : "A software engineer with an interest in how data affects the lives of you and me."
-  location : "Edinburgh, Scotland."
+  name: "Peter Scanlon"
+  avatar: "assets/images/me-door.jpg"
+  bio: "A software engineer with an interest in how data affects the lives of you and me."
+  location: "Edinburgh, Scotland."
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-2xlS fa-linkedin"
+      url: "https://www.linkedin.com/in/peter-scanlon-43807b142/"
+
+    - label: "Goodreads"
+      icon: "fab fa-2xl fa-goodreads"
+      url: "https://www.goodreads.com/user/show/119547064-peter-scanlon"
+
+    - label: "Curriculum Vitae"
+      url: /cv
 
 include: ["_pages"]
-
-
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
